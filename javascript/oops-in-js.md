@@ -1,4 +1,4 @@
-# Classis method of using prototype
+# Classic method of using prototype
 
 ## Key takeways
 
